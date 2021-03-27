@@ -3,7 +3,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/ClassicTwist.deb
+Filename: ./ClassicTwist.deb
 Size: 2030
 MD5sum: b55fb32481b94963926168e2941aed5b
 Description: A Laetus Theme with a twist on the classic keyboard look
@@ -17,7 +17,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/ClassicTwistBorderLess.deb
+Filename: ./ClassicTwistBorderLess.deb
 Size: 2052
 MD5sum: 23832c2dd39e5233a0d883da32a929f2
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
@@ -31,7 +31,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Claw.deb
+Filename: ./Claw.deb
 Size: 1990
 MD5sum: 9b5350feb8a6b9fb3484b411408aed88
 Description: A Laetus Theme
@@ -45,7 +45,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Modern.deb
+Filename: ./Modern.deb
 Size: 1862
 MD5sum: a81b4751c293504459948d34135c7480
 Description: A Laetus Theme with a modern look
@@ -59,7 +59,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/RoundedRect.deb
+Filename: ./RoundedRect.deb
 Size: 1860
 MD5sum: 60a85daa8c1faec515ca1f0e48e8e60a
 Description: A Laetus Theme with rounded rectangles
@@ -73,7 +73,7 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Shadows.deb
+Filename: ./Shadows.deb
 Size: 2018
 MD5sum: 898463b7511a7529a2274ac7cf51a39b
 Description: A Laetus Theme with Shadows
