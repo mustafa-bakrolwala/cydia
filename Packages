@@ -4,8 +4,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Boxed.deb
-Size: 1998
-MD5sum: 63e8ac251951a1e2749763ab7daafaa7
+Size: 2038
+MD5sum: 194ed7e7c3c99d45d99d9655f01c6f6b
 Description: A Laetus Theme with Boxes
 Name: Boxed Laetus Theme
 Author: Mustafa
@@ -18,8 +18,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/BoxedBorder.deb
-Size: 2016
-MD5sum: 7dacbffb3e9b193c971d8dd161c7ac50
+Size: 2060
+MD5sum: 8839099b7eb48aa6cda396b5c1504ada
 Description: A Laetus Theme with boxes and borders
 Name: Boxed Border Laetus Theme
 Author: Mustafa
@@ -32,8 +32,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwist.deb
-Size: 2032
-MD5sum: 3125b4f47c7eed9cef85d71acec704e2
+Size: 2074
+MD5sum: e86dd7e15852a5d3ed7f8e8642776a10
 Description: A Laetus Theme with a twist on the classic keyboard look
 Name: Classic Twist Laetus Theme
 Author: Mustafa
@@ -46,8 +46,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwistBorderLess.deb
-Size: 2056
-MD5sum: 512f66ce7e686e675fcebeb38366d8df
+Size: 2100
+MD5sum: d19a2a5fd1c1648223f0c38c3c1bc400
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
 Name: Classic Twist Laetus Theme - Without Borders
 Author: Mustafa
@@ -60,8 +60,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Claw.deb
-Size: 1994
-MD5sum: 159942c9bf10b8f73381b6b08d970b93
+Size: 2032
+MD5sum: 648285945ac45b046f385855d7e12707
 Description: A Laetus Theme
 Name: Laetus Theme - Claw
 Author: Mustafa
@@ -73,9 +73,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Disconnected.deb
-Size: 2110
-MD5sum: 1a8283ab55a8c67f88a114c4fd25542a
+Filename: ./debs/DIsconnected.deb
+Size: 2150
+MD5sum: 29108285b38d386710330c66d2982651
 Description: A Laetus Theme with Disconnected Lines
 Name: Disconnected Lines Laetus Theme
 Author: Mustafa
@@ -88,8 +88,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient.deb
-Size: 2040
-MD5sum: ec0f4b0b307086cc25014cf92a044cd8
+Size: 2082
+MD5sum: 3dd1cf6ca10b672cc86f9a5783760093
 Description: A Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient
 Author: Mustafa
@@ -102,8 +102,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient2.deb
-Size: 2050
-MD5sum: 9e9c279470654e15654e761d55a8bdd8
+Size: 2098
+MD5sum: b9126bbbc67745af16737d2784291781
 Description: Another Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient 2
 Author: Mustafa
@@ -116,8 +116,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient3.deb
-Size: 2058
-MD5sum: 94d30d0643c03cacca9161eae6b4f5fd
+Size: 2100
+MD5sum: b1b5ddf96f05aacba0fc745fa1c2ac0f
 Description: One More Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient 3
 Author: Mustafa
@@ -130,8 +130,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Glow.deb
-Size: 2020
-MD5sum: 30cc9051ea92a91c6768df819c705d6d
+Size: 2066
+MD5sum: 7e586d9ed9a11b3c523ad06aaba5cabb
 Description: A Laetus Theme with Glowing blur
 Name: Laetus Theme Glow
 Author: Mustafa
@@ -144,8 +144,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient.deb
-Size: 2048
-MD5sum: c0b4fd092f28cc0b9fe5d129ccbaccd1
+Size: 2088
+MD5sum: 4cb9534a34f630ad84701df67298dd83
 Description: A Laetus Theme with light gradients
 Name: Laetus Theme - Light Gradient
 Author: Mustafa
@@ -158,8 +158,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient2.deb
-Size: 2052
-MD5sum: 71d1425c4b44f7e5378d44b2305555c6
+Size: 2096
+MD5sum: aa38f9d491b69a4dd473c8d85748ba2d
 Description: Another Laetus Theme with light gradients
 Name: Laetus Theme - Light Gradient 2
 Author: Mustafa
@@ -172,8 +172,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient3.deb
-Size: 2052
-MD5sum: d17fe5245385afd9428a35a05f7f079c
+Size: 2094
+MD5sum: efe2bc3ac838790c0ac8655566bdc3eb
 Description: One more Laetus Theme with a light gradients
 Name: Laetus Theme - Light Gradient 3
 Author: Mustafa
@@ -186,8 +186,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Modern.deb
-Size: 1864
-MD5sum: 5a9d4043910c6b8936dd2a285c34c976
+Size: 1906
+MD5sum: c654b684815bc5886893759e2b8dc769
 Description: A Laetus Theme with a modern look
 Name: Modern Laetus Theme
 Author: Mustafa
@@ -200,8 +200,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/RoundedRect.deb
-Size: 1866
-MD5sum: fbb737daefabd97c4be36526c354b254
+Size: 1910
+MD5sum: 9a7fd9599a53dc417e4fbe9a7330e44a
 Description: A Laetus Theme with rounded rectangles
 Name: Laetus Theme - RoundedRect
 Author: Mustafa
@@ -214,8 +214,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Separator.deb
-Size: 2068
-MD5sum: a1910333602753e1ce70d49c9db69b55
+Size: 2100
+MD5sum: 7317e88c5c19a72769a179d306960c93
 Description: A Laetus Theme with Separators
 Name: Separator Laetus Theme
 Author: Mustafa
@@ -228,8 +228,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Shadows.deb
-Size: 2012
-MD5sum: ad0f520675d233b42178324ba3df710a
+Size: 2054
+MD5sum: 53284ea1166c8159dbb0142be27799ee
 Description: A Laetus Theme with Shadows
 Name: Laetus Theme Shadows
 Author: Mustafa
@@ -242,8 +242,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Shadows2.deb
-Size: 2036
-MD5sum: 37ebd7b9a437325516088a0eefb5b76f
+Size: 2076
+MD5sum: b8356fddd0439f5be2f71ced8dc40fe5
 Description: A Laetus Theme with different Shadows
 Name: Laetus Theme Shadows 2
 Author: Mustafa
@@ -256,8 +256,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Underline.deb
-Size: 2194
-MD5sum: c9a176ab64b3443442cccaa549ec4e09
+Size: 2236
+MD5sum: 9875d4d9cc7f7e1e4997cf021dd2aef0
 Description: A Laetus Theme with lines under
 Name: Underline Laetus Theme
 Author: Mustafa
