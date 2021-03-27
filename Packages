@@ -1,3 +1,31 @@
+Package: com.mustafabakrol.boxed
+Version: 1.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Boxed.deb
+Size: 1998
+MD5sum: 63e8ac251951a1e2749763ab7daafaa7
+Description: A Laetus Theme with Boxes
+Name: Boxed Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxed
+
+Package: com.mustafabakrol.boxedborder
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/BoxedBorder.deb
+Size: 2016
+MD5sum: 7dacbffb3e9b193c971d8dd161c7ac50
+Description: A Laetus Theme with boxes and borders
+Name: Boxed Border Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxedborder
+
 Package: com.mustafabakrol.classictwist
 Version: 2.0
 Section: Themes
@@ -5,7 +33,7 @@ Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwist.deb
 Size: 2032
-MD5sum: ff3e5ce2f85fe7b758ed7dcc53a72d3c
+MD5sum: 3125b4f47c7eed9cef85d71acec704e2
 Description: A Laetus Theme with a twist on the classic keyboard look
 Name: Classic Twist Laetus Theme
 Author: Mustafa
@@ -19,7 +47,7 @@ Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwistBorderLess.deb
 Size: 2056
-MD5sum: 836834b17291708e429c5fc38719d544
+MD5sum: 512f66ce7e686e675fcebeb38366d8df
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
 Name: Classic Twist Laetus Theme - Without Borders
 Author: Mustafa
@@ -32,13 +60,125 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Claw.deb
-Size: 1990
-MD5sum: d112f1b56d85617df06e45cde623d77e
+Size: 1994
+MD5sum: 159942c9bf10b8f73381b6b08d970b93
 Description: A Laetus Theme
 Name: Laetus Theme - Claw
 Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.claw
+
+Package: com.mustafabakrol.disconnected
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Disconnected.deb
+Size: 2110
+MD5sum: 1a8283ab55a8c67f88a114c4fd25542a
+Description: A Laetus Theme with Disconnected Lines
+Name: Disconnected Lines Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.disconnected
+
+Package: com.mustafabakrol.drkgrad
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/DarkGradient.deb
+Size: 2040
+MD5sum: ec0f4b0b307086cc25014cf92a044cd8
+Description: A Laetus Theme with dark gradients
+Name: Laetus Theme - Dark Gradient
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad
+
+Package: com.mustafabakrol.drkgrad2
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/DarkGradient2.deb
+Size: 2050
+MD5sum: 9e9c279470654e15654e761d55a8bdd8
+Description: Another Laetus Theme with dark gradients
+Name: Laetus Theme - Dark Gradient 2
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad2
+
+Package: com.mustafabakrol.drkgrad3
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/DarkGradient3.deb
+Size: 2058
+MD5sum: 94d30d0643c03cacca9161eae6b4f5fd
+Description: One More Laetus Theme with dark gradients
+Name: Laetus Theme - Dark Gradient 3
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad3
+
+Package: com.mustafabakrol.glow
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Glow.deb
+Size: 2020
+MD5sum: 30cc9051ea92a91c6768df819c705d6d
+Description: A Laetus Theme with Glowing blur
+Name: Laetus Theme Glow
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.glow
+
+Package: com.mustafabakrol.ltgrad
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/LightGradient.deb
+Size: 2048
+MD5sum: c0b4fd092f28cc0b9fe5d129ccbaccd1
+Description: A Laetus Theme with light gradients
+Name: Laetus Theme - Light Gradient
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad
+
+Package: com.mustafabakrol.ltgrad2
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/LightGradient2.deb
+Size: 2052
+MD5sum: 71d1425c4b44f7e5378d44b2305555c6
+Description: Another Laetus Theme with light gradients
+Name: Laetus Theme - Light Gradient 2
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad2
+
+Package: com.mustafabakrol.ltgrad3
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/LightGradient3.deb
+Size: 2052
+MD5sum: d17fe5245385afd9428a35a05f7f079c
+Description: One more Laetus Theme with a light gradients
+Name: Laetus Theme - Light Gradient 3
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad3
 
 Package: com.mustafabakrol.modern
 Version: 2.0
@@ -46,8 +186,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Modern.deb
-Size: 1860
-MD5sum: b8d46ef16cfcb89c910d850d0c3105d0
+Size: 1864
+MD5sum: 5a9d4043910c6b8936dd2a285c34c976
 Description: A Laetus Theme with a modern look
 Name: Modern Laetus Theme
 Author: Mustafa
@@ -60,13 +200,27 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/RoundedRect.deb
-Size: 1864
-MD5sum: af35de9a041f7d01cabffbab251da9fe
+Size: 1866
+MD5sum: fbb737daefabd97c4be36526c354b254
 Description: A Laetus Theme with rounded rectangles
 Name: Laetus Theme - RoundedRect
 Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.roundedrect
+
+Package: com.mustafabakrol.separator
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Separator.deb
+Size: 2068
+MD5sum: a1910333602753e1ce70d49c9db69b55
+Description: A Laetus Theme with Separators
+Name: Separator Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.separator
 
 Package: com.mustafabakrol.shadows
 Version: 2.0
@@ -74,11 +228,39 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Shadows.deb
-Size: 2016
-MD5sum: a534fb37259fc31c48393c25fe48648c
+Size: 2012
+MD5sum: ad0f520675d233b42178324ba3df710a
 Description: A Laetus Theme with Shadows
 Name: Laetus Theme Shadows
 Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.shadows
+
+Package: com.mustafabakrol.shadows2
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Shadows2.deb
+Size: 2036
+MD5sum: 37ebd7b9a437325516088a0eefb5b76f
+Description: A Laetus Theme with different Shadows
+Name: Laetus Theme Shadows 2
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.shadows2
+
+Package: com.mustafabakrol.underline
+Version: 2.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/Underline.deb
+Size: 2194
+MD5sum: c9a176ab64b3443442cccaa549ec4e09
+Description: A Laetus Theme with lines under
+Name: Underline Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.underline
 

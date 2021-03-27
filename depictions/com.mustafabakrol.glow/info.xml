@@ -1,0 +1,33 @@
+<package>
+	<id>com.mustafabakrol.glow</id>
+	<name>Laetus Theme Glow</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+<dependencies></dependencies>
+	<shortDescription>A Laetus Theme with Glowing blur</shortDescription>
+	<descriptionlist>
+		<description>A Laetus Theme with Glowing blur</description>
+		<description>You can change the colors to your liking by editing the CSS File in the theme directory</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Alphabets</description>
+			<image>Alphabets.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description>Numpad</description>
+			<image>Numpad.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Alignment issues addressed</change>
+	</changelog>
+	<links>
+		
+	</links>
+</package>
