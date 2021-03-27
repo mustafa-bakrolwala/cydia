@@ -5,7 +5,7 @@ Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/ClassicTwist.deb
 Size: 2032
-MD5sum: f516508c65077e161c4421fecb31cc03
+MD5sum: ff3e5ce2f85fe7b758ed7dcc53a72d3c
 Description: A Laetus Theme with a twist on the classic keyboard look
 Name: Classic Twist Laetus Theme
 Author: Mustafa
@@ -18,8 +18,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/ClassicTwistBorderLess.deb
-Size: 2052
-MD5sum: f7bbf730d686f6e6d04a9e132e6aae9b
+Size: 2056
+MD5sum: 836834b17291708e429c5fc38719d544
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
 Name: Classic Twist Laetus Theme - Without Borders
 Author: Mustafa
@@ -32,8 +32,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/Claw.deb
-Size: 1992
-MD5sum: 2ea74bf02c27908c516dd57c518bf7a0
+Size: 1990
+MD5sum: d112f1b56d85617df06e45cde623d77e
 Description: A Laetus Theme
 Name: Laetus Theme - Claw
 Author: Mustafa
@@ -46,8 +46,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/Modern.deb
-Size: 1862
-MD5sum: ed8c3243991fc1c479d12623a1ec9368
+Size: 1860
+MD5sum: b8d46ef16cfcb89c910d850d0c3105d0
 Description: A Laetus Theme with a modern look
 Name: Modern Laetus Theme
 Author: Mustafa
@@ -55,13 +55,13 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.modern
 
 Package: com.mustafabakrol.roundedrect
-Version: 2.0
+Version: 2.0.1
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/RoundedRect.deb
-Size: 1866
-MD5sum: 839a8fa6e635cbc55a5e5f0c39625e77
+Size: 1864
+MD5sum: af35de9a041f7d01cabffbab251da9fe
 Description: A Laetus Theme with rounded rectangles
 Name: Laetus Theme - RoundedRect
 Author: Mustafa
@@ -74,8 +74,8 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs./debs/Shadows.deb
-Size: 2018
-MD5sum: 00563d327e62a9557d1dd0bc63c795d7
+Size: 2016
+MD5sum: a534fb37259fc31c48393c25fe48648c
 Description: A Laetus Theme with Shadows
 Name: Laetus Theme Shadows
 Author: Mustafa
