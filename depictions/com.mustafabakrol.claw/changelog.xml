@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>2.0</version>
+		<change>Second release</change>
+		<change>Alignment issues addressed</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

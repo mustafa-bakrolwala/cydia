@@ -1,6 +1,6 @@
 <package>
-	<id>com.mustafabakrol.classictwist</id>
-	<name>Classic Twist Laetus Theme</name>
+	<id>com.mustafabakrol.roundedrect</id>
+	<name>Laetus Theme - RoundedRect</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
@@ -8,9 +8,9 @@
 		</firmware>
 	</compatibility>
 <dependencies></dependencies>
-	<shortDescription>A Laetus Theme with a twist on the classic keyboard look</shortDescription>
+	<shortDescription>A Laetus Theme with rounded rectangles</shortDescription>
 	<descriptionlist>
-		<description>A Laetus Theme with a twist on the classic keyboard look</description>
+		<description>A Laetus Theme with rounded rectangles</description>
 		<description>You can change the colors to your liking by editing the CSS File in the theme directory</description>
 	</descriptionlist>
 	<screenshots>

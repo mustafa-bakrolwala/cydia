@@ -1,6 +1,6 @@
 <package>
-	<id>com.mustafabakrol.classictwist</id>
-	<name>Classic Twist Laetus Theme</name>
+	<id>com.mustafabakrol.modern</id>
+	<name>Modern Laetus Theme</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
@@ -8,20 +8,16 @@
 		</firmware>
 	</compatibility>
 <dependencies></dependencies>
-	<shortDescription>A Laetus Theme with a twist on the classic keyboard look</shortDescription>
+	<shortDescription>A Laetus Theme with a modern look</shortDescription>
 	<descriptionlist>
-		<description>A Laetus Theme with a twist on the classic keyboard look</description>
+		<description>A Laetus Theme with a modern look</description>
 		<description>You can change the colors to your liking by editing the CSS File in the theme directory</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Alphabets</description>
 			<image>Alphabets.PNG</image>
-		</screenshot>		
-		<screenshot>
-			<description>Numpad</description>
-			<image>Numpad.PNG</image>
-		</screenshot>		
+		</screenshot>			
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
