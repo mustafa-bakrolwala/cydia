@@ -1,0 +1,37 @@
+<package>
+	<id>com.mustafabakrol.classictwist</id>
+	<name>Classic Twist Laetus Theme</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+<dependencies></dependencies>
+	<shortDescription>A Laetus Theme with a twist on the classic keyboard look</shortDescription>
+	<descriptionlist>
+		<description>A Laetus Theme with a twist on the classic keyboard look</description>
+		<description>You can change the colors to your liking by editing the CSS File in the theme directory</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Alphabets</description>
+			<image>Alphabets.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Numpad</description>
+			<image>Numpad.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Alignment issues addressed</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
