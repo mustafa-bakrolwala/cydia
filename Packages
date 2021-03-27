@@ -3,9 +3,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/ClassicTwist.deb
-Size: 2030
-MD5sum: b55fb32481b94963926168e2941aed5b
+Filename: ./debs./debs/ClassicTwist.deb
+Size: 2032
+MD5sum: f516508c65077e161c4421fecb31cc03
 Description: A Laetus Theme with a twist on the classic keyboard look
 Name: Classic Twist Laetus Theme
 Author: Mustafa
@@ -17,9 +17,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/ClassicTwistBorderLess.deb
+Filename: ./debs./debs/ClassicTwistBorderLess.deb
 Size: 2052
-MD5sum: 23832c2dd39e5233a0d883da32a929f2
+MD5sum: f7bbf730d686f6e6d04a9e132e6aae9b
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
 Name: Classic Twist Laetus Theme - Without Borders
 Author: Mustafa
@@ -31,9 +31,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Claw.deb
-Size: 1990
-MD5sum: 9b5350feb8a6b9fb3484b411408aed88
+Filename: ./debs./debs/Claw.deb
+Size: 1992
+MD5sum: 2ea74bf02c27908c516dd57c518bf7a0
 Description: A Laetus Theme
 Name: Laetus Theme - Claw
 Author: Mustafa
@@ -45,9 +45,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Modern.deb
+Filename: ./debs./debs/Modern.deb
 Size: 1862
-MD5sum: a81b4751c293504459948d34135c7480
+MD5sum: ed8c3243991fc1c479d12623a1ec9368
 Description: A Laetus Theme with a modern look
 Name: Modern Laetus Theme
 Author: Mustafa
@@ -59,11 +59,11 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/RoundedRect.deb
-Size: 1860
-MD5sum: 60a85daa8c1faec515ca1f0e48e8e60a
+Filename: ./debs./debs/RoundedRect.deb
+Size: 1866
+MD5sum: 839a8fa6e635cbc55a5e5f0c39625e77
 Description: A Laetus Theme with rounded rectangles
-Name: RoundedRect
+Name: Laetus Theme - RoundedRect
 Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.roundedrect
@@ -73,9 +73,9 @@ Version: 2.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/Shadows.deb
+Filename: ./debs./debs/Shadows.deb
 Size: 2018
-MD5sum: 898463b7511a7529a2274ac7cf51a39b
+MD5sum: 00563d327e62a9557d1dd0bc63c795d7
 Description: A Laetus Theme with Shadows
 Name: Laetus Theme Shadows
 Author: Mustafa
