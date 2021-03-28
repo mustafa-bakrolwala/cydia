@@ -26,6 +26,20 @@ Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxedborder
 
+Package: com.mustafabakrol.boxedborder
+Version: 3.0
+Section: Themes
+Maintainer: Mustafa
+Architecture: iphoneos-arm
+Filename: ./debs/BoxedBorder.deb
+Size: 2060
+MD5sum: 8839099b7eb48aa6cda396b5c1504ada
+Description: A Laetus Theme with boxes and borders
+Name: Boxed Border Laetus Theme
+Author: Mustafa
+Homepage: NA
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxedborder
+
 Package: com.mustafabakrol.classictwist
 Version: 2.0
 Section: Themes
