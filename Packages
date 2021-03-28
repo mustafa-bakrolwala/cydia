@@ -1,30 +1,18 @@
 Package: com.mustafabakrol.boxed
-Version: 1.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Boxed.deb
-Size: 2038
-MD5sum: 194ed7e7c3c99d45d99d9655f01c6f6b
+Size: 2404
+MD5sum: 74bcafbdfd5546c3b22fd6e3fd9214e3
+SHA1: 0de5d2ae7bca543f63a24c7e3ac139d0a863b556
+SHA256: 4ac418c469d2d91e2c536469b564a3c6ba9f19b1b2ab90e1a821b96092e5a138
 Description: A Laetus Theme with Boxes
 Name: Boxed Laetus Theme
 Author: Mustafa
 Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxed
-
-Package: com.mustafabakrol.boxedborder
-Version: 2.0
-Section: Themes
-Maintainer: Mustafa
-Architecture: iphoneos-arm
-Filename: ./debs/BoxedBorder.deb
-Size: 2060
-MD5sum: 8839099b7eb48aa6cda396b5c1504ada
-Description: A Laetus Theme with boxes and borders
-Name: Boxed Border Laetus Theme
-Author: Mustafa
-Homepage: NA
-Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxedborder
 
 Package: com.mustafabakrol.boxedborder
 Version: 3.0
@@ -33,7 +21,9 @@ Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/BoxedBorder.deb
 Size: 2060
-MD5sum: 8839099b7eb48aa6cda396b5c1504ada
+MD5sum: 42f81100d9bd56f925355f02dbc40b81
+SHA1: 276dc6957df059d61b3a6bd35206f4cc7157ae99
+SHA256: 892b3fb1dba2386721c6d0a535cd207a4156d77e197e6acf26d524ab570b9e90
 Description: A Laetus Theme with boxes and borders
 Name: Boxed Border Laetus Theme
 Author: Mustafa
@@ -41,13 +31,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.boxedborder
 
 Package: com.mustafabakrol.classictwist
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwist.deb
-Size: 2074
-MD5sum: e86dd7e15852a5d3ed7f8e8642776a10
+Size: 2436
+MD5sum: 3b751539f1acd622ba477c7deb360c55
+SHA1: fe595837abaf62eebba0c8c57458ffc279a60b22
+SHA256: fc8ce680c80a82bfc2e9d970d8d2b9c7513e315521b5774afeab85fac4cba00a
 Description: A Laetus Theme with a twist on the classic keyboard look
 Name: Classic Twist Laetus Theme
 Author: Mustafa
@@ -55,13 +47,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.classictwist
 
 Package: com.mustafabakrol.classictwistborderless
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ClassicTwistBorderLess.deb
-Size: 2100
-MD5sum: d19a2a5fd1c1648223f0c38c3c1bc400
+Size: 2458
+MD5sum: 5ff902bc12e321f4eb73adbc9eed8532
+SHA1: 4dd41832941c34c6c9d1ae620180b11dbaedee8b
+SHA256: 6408243b79242a2eec1932d1338c079c754307289583b259cbd65d3b6ad7857e
 Description: A Laetus Theme with a twist on the classic keyboard look - Without Borders
 Name: Classic Twist Laetus Theme - Without Borders
 Author: Mustafa
@@ -69,13 +63,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.classictwistborderless
 
 Package: com.mustafabakrol.claw
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Claw.deb
-Size: 2032
-MD5sum: 648285945ac45b046f385855d7e12707
+Size: 2396
+MD5sum: 6a6a77fb6e8db1e0ea5c3283104f28b4
+SHA1: 349437d2de75714ea331e6dce14f176175144f3e
+SHA256: 2b67101f3605291603d1e9de2093ff48029e389987e476671af703e156473092
 Description: A Laetus Theme
 Name: Laetus Theme - Claw
 Author: Mustafa
@@ -83,13 +79,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.claw
 
 Package: com.mustafabakrol.disconnected
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
-Filename: ./debs/DIsconnected.deb
-Size: 2150
-MD5sum: 29108285b38d386710330c66d2982651
+Filename: ./debs/Disconnected.deb
+Size: 2518
+MD5sum: edf994ca609819a710cc0d4b2c052d14
+SHA1: cf90973bcf1ebb06a23bca284cd4e884f4ab2adb
+SHA256: c8a24781695c99c036ba0dfa157019204c68997df5e1391a4f40df877aa0e896
 Description: A Laetus Theme with Disconnected Lines
 Name: Disconnected Lines Laetus Theme
 Author: Mustafa
@@ -97,13 +95,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.disconnected
 
 Package: com.mustafabakrol.drkgrad
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient.deb
-Size: 2082
-MD5sum: 3dd1cf6ca10b672cc86f9a5783760093
+Size: 2452
+MD5sum: 3c950d1a93a03c9bdfdf966f00752ad9
+SHA1: b1aac3cc5b7423f70f1e493a408a903ca2147e25
+SHA256: 558c5f4203b70ca74e6c29ddad90db5d657279b47d05e11126e399efc2000542
 Description: A Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient
 Author: Mustafa
@@ -111,13 +111,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad
 
 Package: com.mustafabakrol.drkgrad2
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient2.deb
-Size: 2098
-MD5sum: b9126bbbc67745af16737d2784291781
+Size: 2462
+MD5sum: 7fe866e89958097eb79bc257ec87f2cf
+SHA1: 83314645cc1219d4fa87356340b02cdb9a0e7f13
+SHA256: 676eddf482e5f196d06fba9a7faa7aadb98e030f7319401a5f872dde408fc154
 Description: Another Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient 2
 Author: Mustafa
@@ -125,13 +127,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad2
 
 Package: com.mustafabakrol.drkgrad3
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/DarkGradient3.deb
-Size: 2100
-MD5sum: b1b5ddf96f05aacba0fc745fa1c2ac0f
+Size: 2462
+MD5sum: a4892a8ad3925bcc22efe22741231368
+SHA1: 4025663336500c0490b09e682f7a06d811291e02
+SHA256: 87c213f39555d1ce82fa14e4d8ccd586a57c802f9a91784c43a514b2f9088364
 Description: One More Laetus Theme with dark gradients
 Name: Laetus Theme - Dark Gradient 3
 Author: Mustafa
@@ -139,13 +143,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.drkgrad3
 
 Package: com.mustafabakrol.glow
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Glow.deb
-Size: 2066
-MD5sum: 7e586d9ed9a11b3c523ad06aaba5cabb
+Size: 2430
+MD5sum: 92defe5ad899d42ff3dada276750feec
+SHA1: 3bb5a0ef3a1dddc9d5a12762e7c58cac2c4df168
+SHA256: 346d29bd0e39c1c7cd3f1e82555dc7cc075b69f70f6e6c3c5bce422d5cf59015
 Description: A Laetus Theme with Glowing blur
 Name: Laetus Theme Glow
 Author: Mustafa
@@ -153,13 +159,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.glow
 
 Package: com.mustafabakrol.ltgrad
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient.deb
-Size: 2088
-MD5sum: 4cb9534a34f630ad84701df67298dd83
+Size: 2458
+MD5sum: 6869951d867a7bef60d52b643626f513
+SHA1: bcb648034d31c8a325b1371cdcd2d7474ca05a45
+SHA256: e862b9a1b43ec6e298eb1de047a10b30d3602433e15313fc2529cb23e96a7e43
 Description: A Laetus Theme with light gradients
 Name: Laetus Theme - Light Gradient
 Author: Mustafa
@@ -167,13 +175,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad
 
 Package: com.mustafabakrol.ltgrad2
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient2.deb
-Size: 2096
-MD5sum: aa38f9d491b69a4dd473c8d85748ba2d
+Size: 2460
+MD5sum: ff28b772014dd2f9714913067d837deb
+SHA1: d7c12714d6d16686cd2226b9eaa494aab5d3450b
+SHA256: 730328c67debfe931f646a1e286b16358196e572d8675429775cf3eca1a012bf
 Description: Another Laetus Theme with light gradients
 Name: Laetus Theme - Light Gradient 2
 Author: Mustafa
@@ -181,13 +191,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad2
 
 Package: com.mustafabakrol.ltgrad3
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/LightGradient3.deb
-Size: 2094
-MD5sum: efe2bc3ac838790c0ac8655566bdc3eb
+Size: 2466
+MD5sum: 3e8efa023aa5acb139d95f4c2049558b
+SHA1: c38bba14a0ba5e8b5035286606312800feda311b
+SHA256: e0caf9f9e6aed984c1efdad923b8521fc12b77c9d18b0a8c843c47d33237ceef
 Description: One more Laetus Theme with a light gradients
 Name: Laetus Theme - Light Gradient 3
 Author: Mustafa
@@ -195,13 +207,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.ltgrad3
 
 Package: com.mustafabakrol.modern
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Modern.deb
-Size: 1906
-MD5sum: c654b684815bc5886893759e2b8dc769
+Size: 2220
+MD5sum: 75d0bf90209a675b3fb4bfe7d2b1952e
+SHA1: 6e9eb356c64855fe4985f7be4937b1e05c54c4f6
+SHA256: dff71c902e7921d113375e6afee35608c25efb11e98f0c0fda2a1b35397ff45e
 Description: A Laetus Theme with a modern look
 Name: Modern Laetus Theme
 Author: Mustafa
@@ -209,13 +223,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.modern
 
 Package: com.mustafabakrol.roundedrect
-Version: 2.0.1
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/RoundedRect.deb
-Size: 1910
-MD5sum: 9a7fd9599a53dc417e4fbe9a7330e44a
+Size: 2234
+MD5sum: 7f572bab7f95cba18dad10775c5687c7
+SHA1: c5498c93fb7e763bed702030da7a40b4057ca099
+SHA256: 869e56083abc7dbd0770146c6200c5df6007b16d2b1819eb1144a2fd278b00fc
 Description: A Laetus Theme with rounded rectangles
 Name: Laetus Theme - RoundedRect
 Author: Mustafa
@@ -223,13 +239,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.roundedrect
 
 Package: com.mustafabakrol.separator
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Separator.deb
-Size: 2100
-MD5sum: 7317e88c5c19a72769a179d306960c93
+Size: 2468
+MD5sum: de7b4868b541b3008e96f2b678f95c0f
+SHA1: 30f7e251283e985ecde46d4b5c74abd1731529aa
+SHA256: 9d8d9d92f3006b36fce2cfdead14f67caf76d2f688d5d1d86d6fc7c3320ff61e
 Description: A Laetus Theme with Separators
 Name: Separator Laetus Theme
 Author: Mustafa
@@ -237,13 +255,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.separator
 
 Package: com.mustafabakrol.shadows
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Shadows.deb
-Size: 2054
-MD5sum: 53284ea1166c8159dbb0142be27799ee
+Size: 2430
+MD5sum: a1594de63b36a54dab5ccea45f9c6e97
+SHA1: 71583f91918f33831c3002959c946ff43cb6b3d6
+SHA256: d78d8f2ff151c6b5f2f9da9560013df09f1f7693b3e02b625cfe3c24b771cca5
 Description: A Laetus Theme with Shadows
 Name: Laetus Theme Shadows
 Author: Mustafa
@@ -251,13 +271,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.shadows
 
 Package: com.mustafabakrol.shadows2
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Shadows2.deb
-Size: 2076
-MD5sum: b8356fddd0439f5be2f71ced8dc40fe5
+Size: 2442
+MD5sum: ff7aaf1beb883cc767684e7f5df761c4
+SHA1: cfc2b180d8b723b8f87369090102341f38e9667f
+SHA256: 3b04e64d25ad805a4794a667a392077a0eca183f631e3c5bb74ca4d0cbd74103
 Description: A Laetus Theme with different Shadows
 Name: Laetus Theme Shadows 2
 Author: Mustafa
@@ -265,13 +287,15 @@ Homepage: NA
 Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.shadows2
 
 Package: com.mustafabakrol.underline
-Version: 2.0
+Version: 3.0
 Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/Underline.deb
-Size: 2236
-MD5sum: 9875d4d9cc7f7e1e4997cf021dd2aef0
+Size: 2602
+MD5sum: 0d864af1af5c8fcd9cbd0bb0da015521
+SHA1: eb287bb0c7f290d7d677a38e639f3e5d536e3de8
+SHA256: 63d5654211d8de95b4ed3ea201bd693b1694255254b32d4c417cf8e10dfdd598
 Description: A Laetus Theme with lines under
 Name: Underline Laetus Theme
 Author: Mustafa
