@@ -1,16 +1,16 @@
 <package>
-	<id>com.mustafabakrol.ltgrad3</id>
-	<name>Laetus Theme - Light Gradient 3</name>
-	<version>3.0</version>
+	<id>com.mustafabakrol.laetuspack</id>
+	<name>Laetus Theme Pack</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 <dependencies></dependencies>
-	<shortDescription>One more Laetus Theme with light gradients</shortDescription>
+	<shortDescription>A Laetus Theme Pack</shortDescription>
 	<descriptionlist>
-		<description>One more Laetus Theme with light gradients</description>
+		<description>A Laetus Theme Pack</description>
 		<description>You can change the colors to your liking by editing the CSS File in the theme directory</description>
 	</descriptionlist>
 	<screenshots>
@@ -24,7 +24,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Landscape support</change>
+		<change>Initial release with all themes in one pack</change>
 	</changelog>
 	<links>
 		
