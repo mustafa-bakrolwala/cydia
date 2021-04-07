@@ -4,7 +4,7 @@ Section: Themes
 Maintainer: Mustafa
 Architecture: iphoneos-arm
 Filename: ./debs/ThemePack.deb
-Size: 2404
+Size: 5580
 MD5sum: 79e44ef922f6d1e9a6b980b223fc903d
 SHA1: d15c8b1c44c75358d2b077d9f8754731b3b5f9f8
 SHA256: 31e5359356628033c87be50e705d41eb8361ca0f86034f9879eb47b0ab839cec
