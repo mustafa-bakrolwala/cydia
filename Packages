@@ -1,4 +1,4 @@
-Package: com.mustafabakrol.themepack
+Package: com.mustafabakrol.laetuspack
 Version: 1.0
 Section: Themes
 Maintainer: Mustafa
@@ -12,4 +12,4 @@ Description: A Laetus Theme Pack
 Name: Laetus Theme Pack
 Author: Mustafa
 Homepage: NA
-Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.themepack
+Depiction: https://mustafa-bakrolwala.github.io/cydia/depictions/?p=com.mustafabakrol.laetuspack
